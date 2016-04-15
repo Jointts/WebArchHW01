@@ -1,0 +1,21 @@
+2016-03-28 17:56:22 INFO  PoetryServlet:30 - Servlet Initialized!
+2016-03-28 17:56:28 INFO  PoetryServlet:30 - Servlet Initialized!
+2016-03-28 18:00:04 INFO  PoetryServlet:30 - Servlet Initialized!
+2016-03-28 18:03:07 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:04:30 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:14:00 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:17:07 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:18:15 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:19:04 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:20:04 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:23:25 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:24:53 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:29:54 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:30:36 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:33:50 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:38:59 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:40:54 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-28 18:48:27 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-29 11:54:53 INFO  PoetryServlet:29 - Servlet Initialized!
+2016-03-29 12:13:46 INFO  PoetryServlet:29 - Servlet Initialized!
+

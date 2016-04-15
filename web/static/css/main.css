@@ -1,0 +1,19 @@
+body, table{
+    font-size: 22px;
+}
+
+input{
+    font-size: 20px;
+}
+
+.plane-detail-container, .plane-list-container{
+    width: 700px;
+}
+
+.plane-detail-container input,
+.plane-detail-container label,
+.plane-detail-container textarea{
+    width: 100%;
+    display: block;
+}
+
